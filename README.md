@@ -12,13 +12,13 @@ See `commands.sh`
 
 ## Screenshots
 Instance launch:
-![Launch success](1-launch-success.png)
+![Launch success](1-launch-success.jpeg)
 
 Instance running:
-![Instance running](2-instance-running.png)
+![Instance running](2-instance-running.jpeg)
 
 Nginx status:
-![Nginx status](3-nginx-status.png)
+![Nginx status](3-nginx-status.jpeg)
 
 Live website:
-![Website](4-website.png)
+![Website](4-website.jpeg)
